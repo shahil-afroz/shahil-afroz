@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=ffff00&width=900&lines=I+am+Shahil+Afroz.;I+have+a+good+knowledge+about+JAVA+and+data+structure+and+algorithms.;Recently+I+started+learning+Web+Development.;+When+I+am+not+working%2C+I+enjoy+playing+Chess.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=ffff00&width=900&lines=I+am+Shahil+Afroz.;I+have+a+good+knowledge+about+C+++and+data+structure+and+algorithms.;Recently+I+started+learning+Web+Development.;+When+I+am+not+working%2C+I+enjoy+playing+Chess.)](https://git.io/typing-svg)
 
 ## Welcome to my profile 💻
 - 🌐 I’m currently pursuing **B.Tech in Information Technology**.
