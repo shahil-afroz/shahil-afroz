@@ -22,7 +22,7 @@
 
 ### My Github Stats 📊
 
-|<img src="https://github-readme-stats.vercel.app/api?username=shahil-afroz&&show_icons=true&count_private=true&include_all_commits=true&&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Surajit0573&count_private=true&include_all_commits=true&&theme=tokyonight"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=shahil-afroz&&show_icons=true&count_private=true&include_all_commits=true&&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahil-afroz&count_private=true&include_all_commits=true&&theme=tokyonight"/>|
 |---|---|
 <div align="center">
 
