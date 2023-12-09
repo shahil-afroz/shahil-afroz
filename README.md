@@ -1,9 +1,14 @@
-### Hi there✨
-- I am Shahil Afroz and I am majoring in Information technology from Jalpaiguri Government Engineering College.
-- I am enthusiastic about Web Development and looking forward to contribute on Open Source projects in near future.
-- 📫 How to reach me: shahilafroz26@gmail.com 
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=ffff00&width=900&lines=I+am+Shahil+Afroz.;I+have+a+good+knowledge+about+JAVA+and+data+structure+and+algorithms.;Recently+I+started+learning+Web+Development.;+When+I+am+not+working%2C+I+enjoy+playing+Chess.)](https://git.io/typing-svg)
 
-### Connect with me:
+## Welcome to my profile 💻
+- 🌐 I’m currently pursuing **B.Tech in Information Technology**.
+- ✨ I have a good knowledge about C++ and data structure and algorithms.
+- 💞️ I’m interested in  Open source contributions.
+- 🌱 I’m currently learning Web Development.
+- 👀 I aspire to become a Software Engineer, contributing to innovative projects and continuously expanding my technical skills.
+- 📫 How to reach me **shahilafroz26@gmail.com**
+
 
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tania-banerjee-9a1a49240/) (https://www.linkedin.com/in/shahil-afroz/) 
 <h3 align="left">Languages and Tools:</h3>
@@ -14,14 +19,15 @@
 
 [![An image of @shahilafroz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shahilafroz)](https://holopin.io/@shahilafroz)
 
-### STATISTICS:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahil-afroz&show_icons=true&locale=en&layout=compact" alt="shahil-afroz" /></p>
+### My Github Stats 📊
 
-###   
+|<img src="https://github-readme-stats.vercel.app/api?username=shahil-afroz&&show_icons=true&count_private=true&include_all_commits=true&&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Surajit0573&count_private=true&include_all_commits=true&&theme=tokyonight"/>|
+|---|---|
+<div align="center">
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shahil-afroz&show_icons=true&locale=en" alt="shahil-afroz" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahil-afroz&layout=compact&theme=midnight-purple)](https://github.com/shahil-afroz)
+</div>
+<div align="center">
 
-###
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shahil-afroz&" alt="shahil-afroz" /></p>
